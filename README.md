@@ -22,5 +22,9 @@ e.g., machine translation and natural language inference.
   the corresponding values as above configuration for backend
 * Run <b>frontend/hannotate</b> from terminal  
 
+### Default accounts
+There are <b>admin</b> (for admin and task manager roles) and <b>annotator</b> (for annotator role) 
+users, both have password <b>123456</b> in the provided database
+
 ## Sample datasets
 The sample for each type of annotation are provided in folder <b>sample_datasets</b> 
