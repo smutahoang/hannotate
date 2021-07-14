@@ -1,6 +1,6 @@
 # Hannotate: Flexible Annotation for Text Analytics from Anywhere
 A highly flexible, lightweight web-based framework for a wide range of text annotation from both desktop and mobile devices.
-Currently, the framework suppors the following types of annotations:
+Currently, the framework supports the following types of annotations:
 * Single text annotation:
 e.g., topic labeling, and sentiment and viewpoint recognition.
 * Text pair annotation:
