@@ -1,6 +1,6 @@
 {
-  "ic_subscription_key": "some key here",
-  "ic_endpoint": "",
+  "ic_subscription_key": "some key here which is not used for now",
+  "ic_endpoint": "api endpoint here, which is also not used for now",
   "secret_key": "h@nnotate_key",
   "__comment__": "server_host: http://<host> or https://<host>",
   "server_host": "http://localhost",
