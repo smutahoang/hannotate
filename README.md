@@ -23,13 +23,13 @@ Python3
 ### Backend
 
 * Set "server_host" and "server_port" in file <b>backend/config.json</b>
-* Run <b>backend/waitress_server</b> from terminal
+* Go go <b>backend</b> and run <b>waitress_server</b> from terminal
 
 ### Frontend
 
-* In file <b>frontend/dist/app.config.json</b>, set "apiUrl" to backend's API service to the corresponding values as
+* In file <b>frontend/dist/assets/app.config.json</b>, set "apiUrl" to backend's API service to the corresponding values as
   above configuration for backend
-* Run <b>frontend/hannotate</b> from terminal
+* Go to <b>frontend</b> and run <b>hannotate</b> from terminal
 
 ### Default accounts
 
