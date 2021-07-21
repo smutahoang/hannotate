@@ -23,7 +23,7 @@ Python3
 ### Backend
 
 * Set "server_host" and "server_port" in file <b>backend/config.json</b>
-* Go go <b>backend</b> and run <b>waitress_server</b> from terminal
+* Go to <b>backend</b> and run <b>waitress_server</b> from terminal
 
 ### Frontend
 
