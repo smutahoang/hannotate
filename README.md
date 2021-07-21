@@ -1,30 +1,41 @@
 # Hannotate: Flexible Annotation for Text Analytics from Anywhere
-A highly flexible, lightweight web-based framework for a wide range of text annotation from both desktop and mobile devices.
-Currently, the framework supports the following types of annotations:
+
+A highly flexible, lightweight web-based framework for a wide range of text annotation from both desktop and mobile
+devices. Currently, the framework supports the following types of annotations:
+
 * Single text annotation:
-e.g., topic labeling, and sentiment and viewpoint recognition.
+  e.g., topic labeling, and sentiment and viewpoint recognition.
 * Text pair annotation:
-e.g., entailment recognition and semantic similarity measurement.
+  e.g., entailment recognition and semantic similarity measurement.
 * Span annotation:
-e.g., named entity recognition and aspect-specific sentiment recognition.
+  e.g., named entity recognition and aspect-specific sentiment recognition.
 * Span pair annotation:
-e.g., relational extraction and co-reference recognition.
+  e.g., relational extraction and co-reference recognition.
 * Sentence rewriting:
-e.g., machine translation and natural language inference.
+  e.g., machine translation and natural language inference.
+
+## Requirements
+
+Python3
 
 ## Setup
+
 ### Backend
+
 * Set "server_host" and "server_port" in file <b>backend/config.json</b>
 * Run <b>backend/waitress_server</b> from terminal
 
 ### Frontend
-* In file <b>frontend/dist/app.config.json</b>, set "apiUrl" to backend's API service to 
-  the corresponding values as above configuration for backend
-* Run <b>frontend/hannotate</b> from terminal  
+
+* In file <b>frontend/dist/app.config.json</b>, set "apiUrl" to backend's API service to the corresponding values as
+  above configuration for backend
+* Run <b>frontend/hannotate</b> from terminal
 
 ### Default accounts
-There are <b>admin</b> (for admin and task manager roles) and <b>annotator</b> (for annotator role) 
+
+There are <b>admin</b> (for admin and task manager roles) and <b>annotator</b> (for annotator role)
 users, both have password <b>123456</b> in the provided database
 
 ## Sample datasets
+
 The sample for each type of annotation are provided in folder <b>sample_datasets</b> 
