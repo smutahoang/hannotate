@@ -1,5 +1,10 @@
 # Hannotate: Flexible Annotation for Text Analytics from Anywhere
 
+## [Walk-through video presentation] (https://www.youtube.com/watch?v=H1PTrkgb_BE)
+
+## [Online demo](http://13.229.214.217:8000/)
+
+## Introduction
 A highly flexible, lightweight web-based framework for a wide range of text annotation from both desktop and mobile
 devices. Currently, the framework supports the following types of annotations:
 
