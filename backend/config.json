@@ -1,0 +1,8 @@
+{
+  "ic_subscription_key": "4e7ca05999c6409e983ead9bd4bb48eb",
+  "ic_endpoint": "https://example.com/",
+  "secret_key": "h@nnotate_key",
+  "__comment__": "server_host: http://<host> or https://<host>",
+  "server_host": "localhost",
+  "server_port": "19334"
+}
